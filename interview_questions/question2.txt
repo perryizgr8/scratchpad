@@ -1,0 +1,5 @@
+Print the number of digits of the smallest number whose digits give the entered number when they are multiplied.
+1 -> 1
+2 -> 1
+10 -> 2 (25)
+100 -> 3 (455)
